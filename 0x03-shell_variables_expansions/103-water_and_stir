@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-printf '%o\n' $(( 5#$( echo $WATER | tr water 01234) + 5#$( echo $STIR | tr stir. 01234 ) )) | tr 01234567 bestchol
-=======
 print '%o\n' $(( 5#$( echo $WATER | tr water 01234) + 5#$( echo $STIR | tr stir. 01234 ) )) | tr 01234567 bestchol
->>>>>>> 6b2f9efe7245a67328f58bc712b1911898a14034
